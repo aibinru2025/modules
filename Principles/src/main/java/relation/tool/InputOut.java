@@ -1,4 +1,4 @@
-package relation.root;
+package relation.tool;
 
 /**
  * @author aibinru
